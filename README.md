@@ -12,4 +12,6 @@ The demo will run python files for each step:
 - `step3.py` converts the results into an Excel file
 - 'step4.py' add Google Maps data and cleans up any duplicates, locations that are closed, or don't have a maps listing
 
+The requirements.txt file is used to set up the virtual environment in VS Code. Not all modules installed are required to run this demo. 
+
 Note that this requires [PhaseLLM](https://phasellm.com/) version 0.0.14 or later.
